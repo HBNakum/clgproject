@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<palette_item version="1.0">
+  <component classname="com.toedter.calendar.JCalendar" />
+  <classpath>
+      <resource type="jar" name="C:\Users\HBNakum\Downloads\jcalendar-tz-1.3.3-4.jar" />
+  </classpath>
+</palette_item>
